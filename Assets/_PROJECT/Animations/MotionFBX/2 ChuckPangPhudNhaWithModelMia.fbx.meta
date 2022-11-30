@@ -1,0 +1,2291 @@
+fileFormatVersion: 2
+guid: 3a7606783caf2144e9adfea35aef1d05
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mia:Head
+    100004: Mia:Head_End
+    100006: Mia:Hips
+    100008: Mia:LeftArm
+    100010: Mia:LeftArm_Dummy
+    100012: Mia:LeftArmRoll
+    100014: Mia:LeftFoot
+    100016: Mia:LeftForeArm
+    100018: Mia:LeftForeArmRoll
+    100020: Mia:LeftHand
+    100022: Mia:LeftHandIndex1
+    100024: Mia:LeftHandIndex2
+    100026: Mia:LeftHandIndex3
+    100028: Mia:LeftHandIndex4
+    100030: Mia:LeftHandMiddle1
+    100032: Mia:LeftHandMiddle2
+    100034: Mia:LeftHandMiddle3
+    100036: Mia:LeftHandMiddle4
+    100038: Mia:LeftHandPinky1
+    100040: Mia:LeftHandPinky2
+    100042: Mia:LeftHandPinky3
+    100044: Mia:LeftHandPinky4
+    100046: Mia:LeftHandRing1
+    100048: Mia:LeftHandRing2
+    100050: Mia:LeftHandRing3
+    100052: Mia:LeftHandRing4
+    100054: Mia:LeftHandThumb1
+    100056: Mia:LeftHandThumb2
+    100058: Mia:LeftHandThumb3
+    100060: Mia:LeftHandThumb4
+    100062: Mia:LeftHips_Dummy
+    100064: Mia:LeftLeg
+    100066: Mia:LeftLegRoll
+    100068: Mia:LeftShoulder
+    100070: Mia:LeftShoulder_Dummy
+    100072: Mia:LeftToeBase
+    100074: Mia:LeftToes_End
+    100076: Mia:LeftUpLeg
+    100078: Mia:LeftUpLegRoll
+    100080: Mia:Master
+    100082: Mia:Mia Hair
+    100084: Mia:MIA:Mia_right_pad4
+    100086: Mia:Mia_body
+    100088: Mia:Mia_head
+    100090: Mia:Mia_L_eye
+    100092: Mia:Mia_left_leg
+    100094: Mia:Mia_left_pad1
+    100096: Mia:Mia_left_pad2
+    100098: Mia:Mia_left_pad3
+    100100: Mia:Mia_R_eye
+    100102: Mia:Mia_right_leg
+    100104: Mia:Mia_right_pad1
+    100106: Mia:Mia_right_pad2
+    100108: Mia:Neck
+    100110: Mia:Reference
+    100112: Mia:RightArm
+    100114: Mia:RightArm_Dummy
+    100116: Mia:RightArmRoll
+    100118: Mia:RightFoot
+    100120: Mia:RightForeArm
+    100122: Mia:RightForeArmRoll
+    100124: Mia:RightHand
+    100126: Mia:RightHandIndex1
+    100128: Mia:RightHandIndex2
+    100130: Mia:RightHandIndex3
+    100132: Mia:RightHandIndex4
+    100134: Mia:RightHandMiddle1
+    100136: Mia:RightHandMiddle2
+    100138: Mia:RightHandMiddle3
+    100140: Mia:RightHandMiddle4
+    100142: Mia:RightHandPinky1
+    100144: Mia:RightHandPinky2
+    100146: Mia:RightHandPinky3
+    100148: Mia:RightHandPinky4
+    100150: Mia:RightHandRing1
+    100152: Mia:RightHandRing2
+    100154: Mia:RightHandRing3
+    100156: Mia:RightHandRing4
+    100158: Mia:RightHandThumb1
+    100160: Mia:RightHandThumb2
+    100162: Mia:RightHandThumb3
+    100164: Mia:RightHandThumb4
+    100166: Mia:RightHips_Dummy
+    100168: Mia:RightLeg
+    100170: Mia:RightLegRoll
+    100172: Mia:RightShoulder
+    100174: Mia:RightShoulder_Dummy
+    100176: Mia:RightToeBase
+    100178: Mia:RightToes_End
+    100180: Mia:RightUpLeg
+    100182: Mia:RightUpLegRoll
+    100184: Mia:Root
+    100186: Mia:Spine
+    100188: Mia:Spine1
+    100190: Mia:Spine2
+    100192: Mia:Spine_Dummy
+    100194: Mia_Ctrl:ChestEndEffector
+    100196: Mia_Ctrl:ChestOriginEffector
+    100198: Mia_Ctrl:Head
+    100200: Mia_Ctrl:HeadEffector
+    100202: Mia_Ctrl:Hips
+    100204: Mia_Ctrl:HipsEffector
+    100206: Mia_Ctrl:LeftAnkleEffector
+    100208: Mia_Ctrl:LeftArm
+    100210: Mia_Ctrl:LeftArmRoll
+    100212: Mia_Ctrl:LeftElbowEffector
+    100214: Mia_Ctrl:LeftFoot
+    100216: Mia_Ctrl:LeftFootEffector
+    100218: Mia_Ctrl:LeftForeArm
+    100220: Mia_Ctrl:LeftForeArmRoll
+    100222: Mia_Ctrl:LeftHand
+    100224: Mia_Ctrl:LeftHandIndex1
+    100226: Mia_Ctrl:LeftHandIndex2
+    100228: Mia_Ctrl:LeftHandIndex3
+    100230: Mia_Ctrl:LeftHandIndex4
+    100232: Mia_Ctrl:LeftHandIndexEffector
+    100234: Mia_Ctrl:LeftHandMiddle1
+    100236: Mia_Ctrl:LeftHandMiddle2
+    100238: Mia_Ctrl:LeftHandMiddle3
+    100240: Mia_Ctrl:LeftHandMiddle4
+    100242: Mia_Ctrl:LeftHandMiddleEffector
+    100244: Mia_Ctrl:LeftHandPinky1
+    100246: Mia_Ctrl:LeftHandPinky2
+    100248: Mia_Ctrl:LeftHandPinky3
+    100250: Mia_Ctrl:LeftHandPinky4
+    100252: Mia_Ctrl:LeftHandPinkyEffector
+    100254: Mia_Ctrl:LeftHandRing1
+    100256: Mia_Ctrl:LeftHandRing2
+    100258: Mia_Ctrl:LeftHandRing3
+    100260: Mia_Ctrl:LeftHandRing4
+    100262: Mia_Ctrl:LeftHandRingEffector
+    100264: Mia_Ctrl:LeftHandThumb1
+    100266: Mia_Ctrl:LeftHandThumb2
+    100268: Mia_Ctrl:LeftHandThumb3
+    100270: Mia_Ctrl:LeftHandThumb4
+    100272: Mia_Ctrl:LeftHandThumbEffector
+    100274: Mia_Ctrl:LeftHipEffector
+    100276: Mia_Ctrl:LeftKneeEffector
+    100278: Mia_Ctrl:LeftLeg
+    100280: Mia_Ctrl:LeftLegRoll
+    100282: Mia_Ctrl:LeftShoulder
+    100284: Mia_Ctrl:LeftShoulderEffector
+    100286: Mia_Ctrl:LeftToeBase
+    100288: Mia_Ctrl:LeftUpLeg
+    100290: Mia_Ctrl:LeftUpLegRoll
+    100292: Mia_Ctrl:LeftWristEffector
+    100294: Mia_Ctrl:Neck
+    100296: Mia_Ctrl:Reference
+    100298: Mia_Ctrl:RightAnkleEffector
+    100300: Mia_Ctrl:RightArm
+    100302: Mia_Ctrl:RightArmRoll
+    100304: Mia_Ctrl:RightElbowEffector
+    100306: Mia_Ctrl:RightFoot
+    100308: Mia_Ctrl:RightFootEffector
+    100310: Mia_Ctrl:RightForeArm
+    100312: Mia_Ctrl:RightForeArmRoll
+    100314: Mia_Ctrl:RightHand
+    100316: Mia_Ctrl:RightHandIndex1
+    100318: Mia_Ctrl:RightHandIndex2
+    100320: Mia_Ctrl:RightHandIndex3
+    100322: Mia_Ctrl:RightHandIndex4
+    100324: Mia_Ctrl:RightHandIndexEffector
+    100326: Mia_Ctrl:RightHandMiddle1
+    100328: Mia_Ctrl:RightHandMiddle2
+    100330: Mia_Ctrl:RightHandMiddle3
+    100332: Mia_Ctrl:RightHandMiddle4
+    100334: Mia_Ctrl:RightHandMiddleEffector
+    100336: Mia_Ctrl:RightHandPinky1
+    100338: Mia_Ctrl:RightHandPinky2
+    100340: Mia_Ctrl:RightHandPinky3
+    100342: Mia_Ctrl:RightHandPinky4
+    100344: Mia_Ctrl:RightHandPinkyEffector
+    100346: Mia_Ctrl:RightHandRing1
+    100348: Mia_Ctrl:RightHandRing2
+    100350: Mia_Ctrl:RightHandRing3
+    100352: Mia_Ctrl:RightHandRing4
+    100354: Mia_Ctrl:RightHandRingEffector
+    100356: Mia_Ctrl:RightHandThumb1
+    100358: Mia_Ctrl:RightHandThumb2
+    100360: Mia_Ctrl:RightHandThumb3
+    100362: Mia_Ctrl:RightHandThumb4
+    100364: Mia_Ctrl:RightHandThumbEffector
+    100366: Mia_Ctrl:RightHipEffector
+    100368: Mia_Ctrl:RightKneeEffector
+    100370: Mia_Ctrl:RightLeg
+    100372: Mia_Ctrl:RightLegRoll
+    100374: Mia_Ctrl:RightShoulder
+    100376: Mia_Ctrl:RightShoulderEffector
+    100378: Mia_Ctrl:RightToeBase
+    100380: Mia_Ctrl:RightUpLeg
+    100382: Mia_Ctrl:RightUpLegRoll
+    100384: Mia_Ctrl:RightWristEffector
+    100386: Mia_Ctrl:Spine
+    100388: Mia_Ctrl:Spine1
+    100390: Mia_Ctrl:Spine2
+    100392: TRC:LANK
+    100394: TRC:LARM
+    100396: TRC:LEBW
+    100398: TRC:LFHD
+    100400: TRC:LFHD 1
+    100402: TRC:LFWF
+    100404: TRC:LFWF 1
+    100406: TRC:LHEEL
+    100408: TRC:LHND
+    100410: TRC:LKNE
+    100412: TRC:LLEG
+    100414: TRC:LPIN
+    100416: TRC:LSHD
+    100418: TRC:LTHM
+    100420: TRC:LTM5
+    100422: TRC:LTNK
+    100424: TRC:LTOE
+    100426: TRC:LTSHD
+    100428: TRC:LUPA
+    100430: TRC:optical
+    100432: TRC:RANK
+    100434: TRC:RARM
+    100436: TRC:RBAK
+    100438: TRC:RBWF
+    100440: TRC:REBW
+    100442: TRC:RFHD
+    100444: TRC:RFHD 1
+    100446: TRC:RFWF
+    100448: TRC:RHEEL
+    100450: TRC:RHND
+    100452: TRC:RKNE
+    100454: TRC:RLEG
+    100456: TRC:ROOT
+    100458: TRC:RPIN
+    100460: TRC:RSHD
+    100462: TRC:RTHM
+    100464: TRC:RTM5
+    100466: TRC:RTNK
+    100468: TRC:RTOE
+    100470: TRC:RTSHD
+    100472: TRC:RUPA
+    100474: TRC:TPBK
+    100476: TRC:TPHD
+    400000: //RootNode
+    400002: Mia:Head
+    400004: Mia:Head_End
+    400006: Mia:Hips
+    400008: Mia:LeftArm
+    400010: Mia:LeftArm_Dummy
+    400012: Mia:LeftArmRoll
+    400014: Mia:LeftFoot
+    400016: Mia:LeftForeArm
+    400018: Mia:LeftForeArmRoll
+    400020: Mia:LeftHand
+    400022: Mia:LeftHandIndex1
+    400024: Mia:LeftHandIndex2
+    400026: Mia:LeftHandIndex3
+    400028: Mia:LeftHandIndex4
+    400030: Mia:LeftHandMiddle1
+    400032: Mia:LeftHandMiddle2
+    400034: Mia:LeftHandMiddle3
+    400036: Mia:LeftHandMiddle4
+    400038: Mia:LeftHandPinky1
+    400040: Mia:LeftHandPinky2
+    400042: Mia:LeftHandPinky3
+    400044: Mia:LeftHandPinky4
+    400046: Mia:LeftHandRing1
+    400048: Mia:LeftHandRing2
+    400050: Mia:LeftHandRing3
+    400052: Mia:LeftHandRing4
+    400054: Mia:LeftHandThumb1
+    400056: Mia:LeftHandThumb2
+    400058: Mia:LeftHandThumb3
+    400060: Mia:LeftHandThumb4
+    400062: Mia:LeftHips_Dummy
+    400064: Mia:LeftLeg
+    400066: Mia:LeftLegRoll
+    400068: Mia:LeftShoulder
+    400070: Mia:LeftShoulder_Dummy
+    400072: Mia:LeftToeBase
+    400074: Mia:LeftToes_End
+    400076: Mia:LeftUpLeg
+    400078: Mia:LeftUpLegRoll
+    400080: Mia:Master
+    400082: Mia:Mia Hair
+    400084: Mia:MIA:Mia_right_pad4
+    400086: Mia:Mia_body
+    400088: Mia:Mia_head
+    400090: Mia:Mia_L_eye
+    400092: Mia:Mia_left_leg
+    400094: Mia:Mia_left_pad1
+    400096: Mia:Mia_left_pad2
+    400098: Mia:Mia_left_pad3
+    400100: Mia:Mia_R_eye
+    400102: Mia:Mia_right_leg
+    400104: Mia:Mia_right_pad1
+    400106: Mia:Mia_right_pad2
+    400108: Mia:Neck
+    400110: Mia:Reference
+    400112: Mia:RightArm
+    400114: Mia:RightArm_Dummy
+    400116: Mia:RightArmRoll
+    400118: Mia:RightFoot
+    400120: Mia:RightForeArm
+    400122: Mia:RightForeArmRoll
+    400124: Mia:RightHand
+    400126: Mia:RightHandIndex1
+    400128: Mia:RightHandIndex2
+    400130: Mia:RightHandIndex3
+    400132: Mia:RightHandIndex4
+    400134: Mia:RightHandMiddle1
+    400136: Mia:RightHandMiddle2
+    400138: Mia:RightHandMiddle3
+    400140: Mia:RightHandMiddle4
+    400142: Mia:RightHandPinky1
+    400144: Mia:RightHandPinky2
+    400146: Mia:RightHandPinky3
+    400148: Mia:RightHandPinky4
+    400150: Mia:RightHandRing1
+    400152: Mia:RightHandRing2
+    400154: Mia:RightHandRing3
+    400156: Mia:RightHandRing4
+    400158: Mia:RightHandThumb1
+    400160: Mia:RightHandThumb2
+    400162: Mia:RightHandThumb3
+    400164: Mia:RightHandThumb4
+    400166: Mia:RightHips_Dummy
+    400168: Mia:RightLeg
+    400170: Mia:RightLegRoll
+    400172: Mia:RightShoulder
+    400174: Mia:RightShoulder_Dummy
+    400176: Mia:RightToeBase
+    400178: Mia:RightToes_End
+    400180: Mia:RightUpLeg
+    400182: Mia:RightUpLegRoll
+    400184: Mia:Root
+    400186: Mia:Spine
+    400188: Mia:Spine1
+    400190: Mia:Spine2
+    400192: Mia:Spine_Dummy
+    400194: Mia_Ctrl:ChestEndEffector
+    400196: Mia_Ctrl:ChestOriginEffector
+    400198: Mia_Ctrl:Head
+    400200: Mia_Ctrl:HeadEffector
+    400202: Mia_Ctrl:Hips
+    400204: Mia_Ctrl:HipsEffector
+    400206: Mia_Ctrl:LeftAnkleEffector
+    400208: Mia_Ctrl:LeftArm
+    400210: Mia_Ctrl:LeftArmRoll
+    400212: Mia_Ctrl:LeftElbowEffector
+    400214: Mia_Ctrl:LeftFoot
+    400216: Mia_Ctrl:LeftFootEffector
+    400218: Mia_Ctrl:LeftForeArm
+    400220: Mia_Ctrl:LeftForeArmRoll
+    400222: Mia_Ctrl:LeftHand
+    400224: Mia_Ctrl:LeftHandIndex1
+    400226: Mia_Ctrl:LeftHandIndex2
+    400228: Mia_Ctrl:LeftHandIndex3
+    400230: Mia_Ctrl:LeftHandIndex4
+    400232: Mia_Ctrl:LeftHandIndexEffector
+    400234: Mia_Ctrl:LeftHandMiddle1
+    400236: Mia_Ctrl:LeftHandMiddle2
+    400238: Mia_Ctrl:LeftHandMiddle3
+    400240: Mia_Ctrl:LeftHandMiddle4
+    400242: Mia_Ctrl:LeftHandMiddleEffector
+    400244: Mia_Ctrl:LeftHandPinky1
+    400246: Mia_Ctrl:LeftHandPinky2
+    400248: Mia_Ctrl:LeftHandPinky3
+    400250: Mia_Ctrl:LeftHandPinky4
+    400252: Mia_Ctrl:LeftHandPinkyEffector
+    400254: Mia_Ctrl:LeftHandRing1
+    400256: Mia_Ctrl:LeftHandRing2
+    400258: Mia_Ctrl:LeftHandRing3
+    400260: Mia_Ctrl:LeftHandRing4
+    400262: Mia_Ctrl:LeftHandRingEffector
+    400264: Mia_Ctrl:LeftHandThumb1
+    400266: Mia_Ctrl:LeftHandThumb2
+    400268: Mia_Ctrl:LeftHandThumb3
+    400270: Mia_Ctrl:LeftHandThumb4
+    400272: Mia_Ctrl:LeftHandThumbEffector
+    400274: Mia_Ctrl:LeftHipEffector
+    400276: Mia_Ctrl:LeftKneeEffector
+    400278: Mia_Ctrl:LeftLeg
+    400280: Mia_Ctrl:LeftLegRoll
+    400282: Mia_Ctrl:LeftShoulder
+    400284: Mia_Ctrl:LeftShoulderEffector
+    400286: Mia_Ctrl:LeftToeBase
+    400288: Mia_Ctrl:LeftUpLeg
+    400290: Mia_Ctrl:LeftUpLegRoll
+    400292: Mia_Ctrl:LeftWristEffector
+    400294: Mia_Ctrl:Neck
+    400296: Mia_Ctrl:Reference
+    400298: Mia_Ctrl:RightAnkleEffector
+    400300: Mia_Ctrl:RightArm
+    400302: Mia_Ctrl:RightArmRoll
+    400304: Mia_Ctrl:RightElbowEffector
+    400306: Mia_Ctrl:RightFoot
+    400308: Mia_Ctrl:RightFootEffector
+    400310: Mia_Ctrl:RightForeArm
+    400312: Mia_Ctrl:RightForeArmRoll
+    400314: Mia_Ctrl:RightHand
+    400316: Mia_Ctrl:RightHandIndex1
+    400318: Mia_Ctrl:RightHandIndex2
+    400320: Mia_Ctrl:RightHandIndex3
+    400322: Mia_Ctrl:RightHandIndex4
+    400324: Mia_Ctrl:RightHandIndexEffector
+    400326: Mia_Ctrl:RightHandMiddle1
+    400328: Mia_Ctrl:RightHandMiddle2
+    400330: Mia_Ctrl:RightHandMiddle3
+    400332: Mia_Ctrl:RightHandMiddle4
+    400334: Mia_Ctrl:RightHandMiddleEffector
+    400336: Mia_Ctrl:RightHandPinky1
+    400338: Mia_Ctrl:RightHandPinky2
+    400340: Mia_Ctrl:RightHandPinky3
+    400342: Mia_Ctrl:RightHandPinky4
+    400344: Mia_Ctrl:RightHandPinkyEffector
+    400346: Mia_Ctrl:RightHandRing1
+    400348: Mia_Ctrl:RightHandRing2
+    400350: Mia_Ctrl:RightHandRing3
+    400352: Mia_Ctrl:RightHandRing4
+    400354: Mia_Ctrl:RightHandRingEffector
+    400356: Mia_Ctrl:RightHandThumb1
+    400358: Mia_Ctrl:RightHandThumb2
+    400360: Mia_Ctrl:RightHandThumb3
+    400362: Mia_Ctrl:RightHandThumb4
+    400364: Mia_Ctrl:RightHandThumbEffector
+    400366: Mia_Ctrl:RightHipEffector
+    400368: Mia_Ctrl:RightKneeEffector
+    400370: Mia_Ctrl:RightLeg
+    400372: Mia_Ctrl:RightLegRoll
+    400374: Mia_Ctrl:RightShoulder
+    400376: Mia_Ctrl:RightShoulderEffector
+    400378: Mia_Ctrl:RightToeBase
+    400380: Mia_Ctrl:RightUpLeg
+    400382: Mia_Ctrl:RightUpLegRoll
+    400384: Mia_Ctrl:RightWristEffector
+    400386: Mia_Ctrl:Spine
+    400388: Mia_Ctrl:Spine1
+    400390: Mia_Ctrl:Spine2
+    400392: TRC:LANK
+    400394: TRC:LARM
+    400396: TRC:LEBW
+    400398: TRC:LFHD
+    400400: TRC:LFHD 1
+    400402: TRC:LFWF
+    400404: TRC:LFWF 1
+    400406: TRC:LHEEL
+    400408: TRC:LHND
+    400410: TRC:LKNE
+    400412: TRC:LLEG
+    400414: TRC:LPIN
+    400416: TRC:LSHD
+    400418: TRC:LTHM
+    400420: TRC:LTM5
+    400422: TRC:LTNK
+    400424: TRC:LTOE
+    400426: TRC:LTSHD
+    400428: TRC:LUPA
+    400430: TRC:optical
+    400432: TRC:RANK
+    400434: TRC:RARM
+    400436: TRC:RBAK
+    400438: TRC:RBWF
+    400440: TRC:REBW
+    400442: TRC:RFHD
+    400444: TRC:RFHD 1
+    400446: TRC:RFWF
+    400448: TRC:RHEEL
+    400450: TRC:RHND
+    400452: TRC:RKNE
+    400454: TRC:RLEG
+    400456: TRC:ROOT
+    400458: TRC:RPIN
+    400460: TRC:RSHD
+    400462: TRC:RTHM
+    400464: TRC:RTM5
+    400466: TRC:RTNK
+    400468: TRC:RTOE
+    400470: TRC:RTSHD
+    400472: TRC:RUPA
+    400474: TRC:TPBK
+    400476: TRC:TPHD
+    2100000: Tex_Mia Body  ( Standard ) 1
+    2100002: Tex_Mia Head  ( Standard )
+    2300000: Mia:Mia Hair
+    2300002: Mia:MIA:Mia_right_pad4
+    2300004: Mia:Mia_L_eye
+    2300006: Mia:Mia_left_pad1
+    2300008: Mia:Mia_left_pad2
+    2300010: Mia:Mia_left_pad3
+    2300012: Mia:Mia_R_eye
+    2300014: Mia:Mia_right_pad1
+    2300016: Mia:Mia_right_pad2
+    3300000: Mia:Mia Hair
+    3300002: Mia:MIA:Mia_right_pad4
+    3300004: Mia:Mia_L_eye
+    3300006: Mia:Mia_left_pad1
+    3300008: Mia:Mia_left_pad2
+    3300010: Mia:Mia_left_pad3
+    3300012: Mia:Mia_R_eye
+    3300014: Mia:Mia_right_pad1
+    3300016: Mia:Mia_right_pad2
+    4300000: Mia:Mia_L_eye
+    4300002: Mia:Mia_R_eye
+    4300004: Mia:Mia Hair
+    4300006: Mia:Mia_right_pad2
+    4300008: Mia:MIA:Mia_right_pad4
+    4300010: Mia:Mia_right_pad1
+    4300012: Mia:Mia_left_pad2
+    4300014: Mia:Mia_left_pad3
+    4300016: Mia:Mia_left_pad1
+    4300018: Mia:Mia_body
+    4300020: Mia:Mia_head
+    4300022: Mia:Mia_left_leg
+    4300024: Mia:Mia_right_leg
+    7400000: Motion Chuck Pang Phud Nha
+    9500000: //RootNode
+    13700000: Mia:Mia_body
+    13700002: Mia:Mia_head
+    13700004: Mia:Mia_left_leg
+    13700006: Mia:Mia_right_leg
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'LY07_t_RealActor_CHUCKPANGPADNHA1_Clean' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Mia:LeftUpLegRoll'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Mia:LeftLegRoll'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Mia:RightUpLegRoll'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Mia:RightLegRoll'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Motion Chuck Pang Phud Nha
+      takeName: LY07_t_RealActor_CHUCKPANGPADNHA1_Clean
+      firstFrame: 167
+      lastFrame: 521
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Mia:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:Mia_L_eye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:Mia_R_eye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mia:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: ChuckPangPhudNhaWithModelMia(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:Root
+      parentName: ChuckPangPhudNhaWithModelMia(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00000013271155, y: 0, z: -0, w: 1}
+      scale: {x: 0.99999803, y: 0.99999803, z: 0.99999803}
+    - name: Mia:Master
+      parentName: Mia:Root
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:Mia_body
+      parentName: Mia:Master
+      position: {x: -0.00032861, y: -0.014918489, z: 2.427589}
+      rotation: {x: 1.0828573e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:Mia_head
+      parentName: Mia:Master
+      position: {x: -0.00032703998, y: -0.052787445, z: 4.0945787}
+      rotation: {x: 1.0828573e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:Mia_left_leg
+      parentName: Mia:Master
+      position: {x: -0.24265707, y: 0.025080409, z: 0.7286792}
+      rotation: {x: -0.00000047683733, y: -0.000000017453287, z: -8.322378e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:Mia_right_leg
+      parentName: Mia:Master
+      position: {x: 0.24265979, y: 0.025080409, z: 0.72867924}
+      rotation: {x: 1.0828573e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:Reference
+      parentName: Mia:Master
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -3.0358825e-17, y: 0, z: -0, w: 1}
+      scale: {x: 0.39215687, y: 0.39215687, z: 0.39215687}
+    - name: Mia:Hips
+      parentName: Mia:Reference
+      position: {x: 0.00000000949951, y: -0.36283797, z: 2.3289692}
+      rotation: {x: -0.00000008940697, y: -0.00000004170102, z: -0.00000017234032,
+        w: 1}
+      scale: {x: 1.0000012, y: 1.0000007, z: 1.0000007}
+    - name: Mia:LeftHips_Dummy
+      parentName: Mia:Hips
+      position: {x: -0.11125861, y: -0.0545164, z: -0.0283255}
+      rotation: {x: 0.0034941165, y: -0.70654345, z: -0.0034985864, w: 0.7076524}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:LeftUpLeg
+      parentName: Mia:LeftHips_Dummy
+      position: {x: 0.00000001676851, y: 0.000000011329907, z: 0.12572967}
+      rotation: {x: 0.000015179396, y: -0.000010758639, z: -0.040381767, w: -0.99918437}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999991}
+    - name: Mia:LeftUpLegRoll
+      parentName: Mia:LeftUpLeg
+      position: {x: -0.47153038, y: 0.00000004276816, z: 0.000000103182096}
+      rotation: {x: 0.000012470775, y: 0.000000062703286, z: -0.000000063158026, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.99999994}
+    - name: Mia:LeftLeg
+      parentName: Mia:LeftUpLegRoll
+      position: {x: -0.540725, y: -0.0000000048333413, z: 0.0000002613116}
+      rotation: {x: -0.000075480784, y: -0.0000029677747, z: 0.12052971, w: -0.9927097}
+      scale: {x: 1.0000007, y: 1.0000011, z: 1.000001}
+    - name: Mia:LeftLegRoll
+      parentName: Mia:LeftLeg
+      position: {x: -0.7686291, y: -0.000000024072145, z: -0.000000026511056}
+      rotation: {x: -0.00007471814, y: -0.000000053434626, z: 0.00000001862645, w: 1}
+      scale: {x: 1.000001, y: 1.0000004, z: 1.0000005}
+    - name: Mia:LeftFoot
+      parentName: Mia:LeftLegRoll
+      position: {x: -0.29783785, y: 0.00000007069141, z: 0.00000006094506}
+      rotation: {x: -0.011836945, y: -0.03280777, z: -0.5016158, w: -0.86438715}
+      scale: {x: 1.0000006, y: 1.0000014, z: 1.0000004}
+    - name: Mia:LeftToeBase
+      parentName: Mia:LeftFoot
+      position: {x: -0.2713232, y: -0.000000043678465, z: -0.00000002698096}
+      rotation: {x: 0.000000011175871, y: -0.000000058673322, z: 0.3048207, w: 0.9524098}
+      scale: {x: 1.0000002, y: 1.0000017, z: 1.0000007}
+    - name: Mia:LeftToes_End
+      parentName: Mia:LeftToeBase
+      position: {x: -0.23621933, y: 0.00000001, z: 0.00000004}
+      rotation: {x: 0.000000008726646, y: -3.8163914e-16, z: -0.00000004363323, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:RightHips_Dummy
+      parentName: Mia:Hips
+      position: {x: 0.11125861, y: -0.0545164, z: -0.0283255}
+      rotation: {x: 0.70765203, y: 0.0034963265, z: -0.7065438, w: -0.0034959994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:RightUpLeg
+      parentName: Mia:RightHips_Dummy
+      position: {x: 0.00000012090521, y: -0.000000008852657, z: -0.12572965}
+      rotation: {x: -0.000012803823, y: -0.000010168427, z: 0.040382378, w: 0.99918437}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000006}
+    - name: Mia:RightUpLegRoll
+      parentName: Mia:RightUpLeg
+      position: {x: 0.47153023, y: 0.000000021231838, z: -0.000000070984214}
+      rotation: {x: 0.000012069941, y: -0.000000029802322, z: 0.000000044703484, w: 1}
+      scale: {x: 1.0000008, y: 1.0000001, z: 1.0000004}
+    - name: Mia:RightLeg
+      parentName: Mia:RightUpLegRoll
+      position: {x: 0.54072505, y: 0.000000009096301, z: -0.0000002910449}
+      rotation: {x: 0.000072247065, y: 0.0000022304125, z: -0.12053113, w: 0.9927096}
+      scale: {x: 1.0000011, y: 1.0000013, z: 1.0000007}
+    - name: Mia:RightLegRoll
+      parentName: Mia:RightLeg
+      position: {x: 0.7686291, y: 0.00000003619912, z: 0.000000039373262}
+      rotation: {x: -0.00007273257, y: 0.000000044703484, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999999}
+    - name: Mia:RightFoot
+      parentName: Mia:RightLegRoll
+      position: {x: 0.29783794, y: -0.0000000388357, z: -0.000000062192605}
+      rotation: {x: 0.011989776, y: 0.03277587, z: 0.49783984, w: 0.86656654}
+      scale: {x: 0.9999999, y: 0.9999996, z: 0.9999999}
+    - name: Mia:RightToeBase
+      parentName: Mia:RightFoot
+      position: {x: 0.2713232, y: -0.0000000018151741, z: -0.000000014063039}
+      rotation: {x: 0.000000035390254, y: 0.000000016763805, z: 0.30482057, w: 0.95240986}
+      scale: {x: 1, y: 1.0000005, z: 1.0000001}
+    - name: Mia:RightToes_End
+      parentName: Mia:RightToeBase
+      position: {x: 0.23621929, y: -0.00000004, z: -0.000000049999997}
+      rotation: {x: -8.0796355e-19, y: 3.146728e-19, z: -0.00000005235988, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:Spine_Dummy
+      parentName: Mia:Hips
+      position: {x: -0.0049298583, y: -0.066880934, z: 0.089632004}
+      rotation: {x: -0.7070972, y: -0.003708729, z: 0.70709723, w: 0.0036684352}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:Spine
+      parentName: Mia:Spine_Dummy
+      position: {x: -0.3076193, y: 0.000000002678176, z: 0.000000009836012}
+      rotation: {x: 0.00002831034, y: 0.0000001777007, z: -0.0000075839916, w: 1}
+      scale: {x: 1, y: 1.0000006, z: 1}
+    - name: Mia:Spine1
+      parentName: Mia:Spine
+      position: {x: -0.2933755, y: 4.1358524e-11, z: -3.497179e-10}
+      rotation: {x: 0.000000051690215, y: -0.000000029532767, z: -0.000005559761,
+        w: 1}
+      scale: {x: 1.0000023, y: 1.0000027, z: 1.0000021}
+    - name: Mia:Spine2
+      parentName: Mia:Spine1
+      position: {x: -0.29923737, y: 0.0000000015800817, z: 1.619093e-10}
+      rotation: {x: -0, y: -0, z: 0.0000055730347, w: -1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+    - name: Mia:LeftShoulder_Dummy
+      parentName: Mia:Spine2
+      position: {x: -0.2748862, y: 0.01060544, z: 0.089182936}
+      rotation: {x: 0.06781369, y: 0.65584284, z: 0.7470106, w: -0.08512727}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:LeftShoulder
+      parentName: Mia:LeftShoulder_Dummy
+      position: {x: 0.15441754, y: -0.000000038546684, z: 0.0000000013906544}
+      rotation: {x: -0.0003023096, y: -0.012098761, z: -0.00017627327, w: 0.9999268}
+      scale: {x: 0.9999991, y: 1.0000002, z: 0.99999934}
+    - name: Mia:LeftArm_Dummy
+      parentName: Mia:LeftShoulder
+      position: {x: 0.0074465103, y: 0.22964399, z: -0.00136207}
+      rotation: {x: 0.38043675, y: 0.55976105, z: 0.6472894, w: 0.350645}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:Mia_left_pad1
+      parentName: Mia:LeftArm_Dummy
+      position: {x: 0.04138519, y: -0.019094065, z: 0.08952198}
+      rotation: {x: -0.31719965, y: 0.000688975, z: 0.9483585, w: 0.0003024461}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:LeftArm
+      parentName: Mia:LeftArm_Dummy
+      position: {x: 0.08735317, y: -0.007163866, z: 0.047415912}
+      rotation: {x: 0.34323978, y: 0.0051202476, z: -0.93923366, w: -0.0005839169}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000007}
+    - name: Mia:Mia_left_pad2
+      parentName: Mia:LeftArm
+      position: {x: -0.11603482, y: 0.0119598, z: 0.04482838}
+      rotation: {x: -3.389681e-21, y: 0.017453752, z: 5.917166e-23, w: 0.9998477}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Mia:Mia_left_pad3
+      parentName: Mia:Mia_left_pad2
+      position: {x: -0.082442194, y: -0.0000031406375, z: -0.013243373}
+      rotation: {x: -0.0000149610405, y: -0.017452411, z: 0.000016658843, w: 0.9998477}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Mia:LeftArmRoll
+      parentName: Mia:LeftArm
+      position: {x: -0.33088195, y: 0.0000000990851, z: 0.00000014732342}
+      rotation: {x: -0.0071929717, y: -0.00000022463058, z: -0.000000049825747, w: 0.99997413}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1.0000001}
+    - name: Mia:LeftForeArm
+      parentName: Mia:LeftArmRoll
+      position: {x: -0.35614753, y: 0.00000006734898, z: 0.00000026390367}
+      rotation: {x: -0.0000001406297, y: -0.0000000485229, z: 0.024325965, w: 0.9997041}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000005}
+    - name: Mia:LeftForeArmRoll
+      parentName: Mia:LeftForeArm
+      position: {x: -0.39145675, y: 0.000000055395187, z: -0.00000036862403}
+      rotation: {x: -0.00000020115172, y: 0.00000021358721, z: -0.000000039115523,
+        w: 1}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999997}
+    - name: Mia:LeftHand
+      parentName: Mia:LeftForeArmRoll
+      position: {x: -0.30046052, y: 0.000000047884004, z: 0.00000014770157}
+      rotation: {x: -0.00000056548, y: 0.00000045942775, z: 0.00000001676384, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: Mia:LeftHandThumb1
+      parentName: Mia:LeftHand
+      position: {x: -0.07561292, y: -0.0879031, z: -0.03154274}
+      rotation: {x: 0.38918644, y: 0.14416902, z: 0.38036346, w: 0.82648224}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000007}
+    - name: Mia:LeftHandThumb2
+      parentName: Mia:LeftHandThumb1
+      position: {x: -0.057450797, y: 0.001283829, z: -0.0023257744}
+      rotation: {x: 0.05892604, y: -0.040076587, z: 0.010575657, w: 0.99740154}
+      scale: {x: 1.0000002, y: 1, z: 0.99999976}
+    - name: Mia:LeftHandThumb3
+      parentName: Mia:LeftHandThumb2
+      position: {x: -0.058281716, y: 0.002523997, z: 0.002098505}
+      rotation: {x: 0.037482888, y: 0.024201747, z: -0.021440802, w: 0.9987741}
+      scale: {x: 0.99999964, y: 0.9999999, z: 0.99999976}
+    - name: Mia:LeftHandThumb4
+      parentName: Mia:LeftHandThumb3
+      position: {x: -0.04190377, y: 0.000048425103, z: -0.0005925564}
+      rotation: {x: -0.000008418997, y: 0.0000047766093, z: -0.0000061313567, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:LeftHandPinky1
+      parentName: Mia:LeftHand
+      position: {x: -0.15458226, y: 0.058971804, z: -0.009795107}
+      rotation: {x: 0.651252, y: -0.013772871, z: -0.0010357384, w: 0.7587359}
+      scale: {x: 1.000001, y: 1, z: 1.000001}
+    - name: Mia:LeftHandPinky2
+      parentName: Mia:LeftHandPinky1
+      position: {x: -0.06693751, y: 0.000000776016, z: 0.000000002239579}
+      rotation: {x: -0.0000030994408, y: -0.00000032037488, z: -0.0000072447565, w: 1}
+      scale: {x: 1.0000011, y: 1, z: 1.0000007}
+    - name: Mia:LeftHandPinky3
+      parentName: Mia:LeftHandPinky2
+      position: {x: -0.052598044, y: 0.0000007307588, z: 0.00000018575055}
+      rotation: {x: -0.000008404264, y: 0.0000012032214, z: -0.000004403287, w: 1}
+      scale: {x: 1.0000005, y: 0.9999998, z: 1.0000006}
+    - name: Mia:LeftHandPinky4
+      parentName: Mia:LeftHandPinky3
+      position: {x: -0.041751996, y: -0.000000020414303, z: -0.000000001633755}
+      rotation: {x: -0.000011000295, y: 0.0000032594758, z: -0.000020189666, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:LeftHandRing1
+      parentName: Mia:LeftHand
+      position: {x: -0.16694464, y: 0.021039916, z: 0.00048087453}
+      rotation: {x: 0.6837897, y: -0.012654599, z: 0.0037944098, w: 0.7295596}
+      scale: {x: 1.0000012, y: 1.0000002, z: 1.0000011}
+    - name: Mia:LeftHandRing2
+      parentName: Mia:LeftHandRing1
+      position: {x: -0.08308555, y: 0.00000023982815, z: 0.00000001768607}
+      rotation: {x: -0.000003188848, y: 0.00000016856937, z: -0.0000034188847, w: 1}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999999}
+    - name: Mia:LeftHandRing3
+      parentName: Mia:LeftHandRing2
+      position: {x: -0.066651605, y: 0.0000009652547, z: 0.000000095131625}
+      rotation: {x: -0.0000084750345, y: 0.00000045448536, z: -0.0000018249846, w: 1}
+      scale: {x: 0.99999976, y: 1.0000001, z: 0.9999999}
+    - name: Mia:LeftHandRing4
+      parentName: Mia:LeftHandRing3
+      position: {x: -0.041880935, y: 0.00000020983207, z: 0.000000006487726}
+      rotation: {x: -0.000010720389, y: 0.0000015080874, z: -0.000020205645, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:LeftHandMiddle1
+      parentName: Mia:LeftHand
+      position: {x: -0.16374496, y: -0.023237843, z: 0.0037234111}
+      rotation: {x: 0.69625056, y: -0.01906333, z: 0.008963185, w: 0.7174897}
+      scale: {x: 1.0000011, y: 1.0000007, z: 1.0000013}
+    - name: Mia:LeftHandMiddle2
+      parentName: Mia:LeftHandMiddle1
+      position: {x: -0.097697176, y: 0.00000033201576, z: -0.000000036703177}
+      rotation: {x: -0.0000035166731, y: -0.00000020768489, z: -0.0000030118965, w: 1}
+      scale: {x: 1.0000012, y: 1, z: 1.0000011}
+    - name: Mia:LeftHandMiddle3
+      parentName: Mia:LeftHandMiddle2
+      position: {x: -0.07370039, y: 0.0000010595788, z: 0.00000006855833}
+      rotation: {x: -0.000008374452, y: 0.00000026633512, z: -0.0000006053568, w: 1}
+      scale: {x: 0.9999992, y: 1.0000001, z: 0.9999996}
+    - name: Mia:LeftHandMiddle4
+      parentName: Mia:LeftHandMiddle3
+      position: {x: -0.0391598, y: 0.00000018733301, z: 0.000000007025386}
+      rotation: {x: -0.000010754413, y: 0.0000009724182, z: -0.000020229354, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:LeftHandIndex1
+      parentName: Mia:LeftHand
+      position: {x: -0.1754124, y: -0.06414832, z: 0.0014316688}
+      rotation: {x: 0.71660155, y: -0.007200025, z: -0.001728615, w: 0.6974435}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000006}
+    - name: Mia:LeftHandIndex2
+      parentName: Mia:LeftHandIndex1
+      position: {x: -0.08026978, y: 0.0000004936381, z: 0.000000021666295}
+      rotation: {x: 0.000011563299, y: 0.00000021792945, z: -0.0000096587455, w: 1}
+      scale: {x: 1.0000005, y: 1, z: 1.0000011}
+    - name: Mia:LeftHandIndex3
+      parentName: Mia:LeftHandIndex2
+      position: {x: -0.06456497, y: 0.000000237259, z: -0.000000025666512}
+      rotation: {x: -0.000008404253, y: -0.00000014211281, z: -0.00000042794076, w: 1}
+      scale: {x: 0.9999998, y: 1, z: 0.9999999}
+    - name: Mia:LeftHandIndex4
+      parentName: Mia:LeftHandIndex3
+      position: {x: -0.037383802, y: -0.00000016407208, z: 7.32636e-11}
+      rotation: {x: -0.000010742093, y: -0.0000005203024, z: -0.000020277621, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:RightShoulder_Dummy
+      parentName: Mia:Spine2
+      position: {x: -0.27488628, y: 0.01061825, z: -0.09908599}
+      rotation: {x: 0.65589386, y: -0.06781932, z: 0.08512283, w: 0.7469658}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:RightShoulder
+      parentName: Mia:RightShoulder_Dummy
+      position: {x: -0.15441766, y: 0.00000007394645, z: 0.000000023339464}
+      rotation: {x: 0.0011458098, y: 0.042034067, z: 0.00054857874, w: -0.9991154}
+      scale: {x: 1.0000006, y: 1.0000012, z: 1.0000007}
+    - name: Mia:RightArm_Dummy
+      parentName: Mia:RightShoulder
+      position: {x: -0.0074467096, y: -0.22964397, z: 0.00136207}
+      rotation: {x: 0.38043627, y: 0.55976325, z: 0.6472872, w: 0.35064602}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:Mia_right_pad1
+      parentName: Mia:RightArm_Dummy
+      position: {x: -0.04448176, y: 0.019086078, z: -0.08358207}
+      rotation: {x: 0.00000009108554, y: 0.93969256, z: -0.00000025025525, w: 0.3420204}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Mia:RightArm
+      parentName: Mia:RightArm_Dummy
+      position: {x: -0.08735326, y: 0.007163877, z: -0.04741621}
+      rotation: {x: -0.34507737, y: -0.017682787, z: 0.9384061, w: 0.001708984}
+      scale: {x: 1, y: 1.0000002, z: 1.0000008}
+    - name: Mia:Mia_right_pad2
+      parentName: Mia:RightArm
+      position: {x: 0.11511464, y: -0.012081903, z: -0.045143746}
+      rotation: {x: 0.9999991, y: -0.00031883203, z: -0.0012998736, w: 0.000048321286}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Mia:MIA:Mia_right_pad4
+      parentName: Mia:Mia_right_pad2
+      position: {x: 0.08283136, y: 0.0006531772, z: -0.010358208}
+      rotation: {x: 6.07459e-11, y: -6.604493e-12, z: 9.295042e-21, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Mia:RightArmRoll
+      parentName: Mia:RightArm
+      position: {x: 0.33088195, y: -0.00000008706067, z: -0.00000013720683}
+      rotation: {x: -0.024972428, y: -0.00000020355947, z: -0.000000019557774, w: 0.9996882}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.99999964}
+    - name: Mia:RightForeArm
+      parentName: Mia:RightArmRoll
+      position: {x: 0.35614765, y: -0.000000074356066, z: -0.00000049777697}
+      rotation: {x: 0.0000046603373, y: 0.0000001153698, z: 0.023879983, w: 0.99971485}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000006}
+    - name: Mia:RightForeArmRoll
+      parentName: Mia:RightForeArm
+      position: {x: 0.3914568, y: 0.000000018249718, z: 0.0000005637391}
+      rotation: {x: -0.00000012476855, y: -0.0000003872967, z: 0.00000003725417, w: 1}
+      scale: {x: 1.0000008, y: 1.0000001, z: 1.0000002}
+    - name: Mia:RightHand
+      parentName: Mia:RightForeArmRoll
+      position: {x: 0.3007728, y: -0.00000004747206, z: 0.0071803126}
+      rotation: {x: -0.000000834465, y: -0.000001215376, z: -0.024325743, w: 0.9997042}
+      scale: {x: 0.9999997, y: 1.0000004, z: 1.0000002}
+    - name: Mia:RightHandThumb1
+      parentName: Mia:RightHand
+      position: {x: 0.07561344, y: 0.087903075, z: 0.031542838}
+      rotation: {x: 0.38512698, y: 0.12614705, z: 0.4406395, w: 0.801}
+      scale: {x: 1.0000002, y: 1.0000005, z: 0.9999998}
+    - name: Mia:RightHandThumb2
+      parentName: Mia:RightHandThumb1
+      position: {x: 0.05745111, y: -0.0012837851, z: 0.0023261702}
+      rotation: {x: 0.08701274, y: -0.068703465, z: -0.010606743, w: 0.99377877}
+      scale: {x: 1.0000006, y: 1.0000017, z: 1.0000004}
+    - name: Mia:RightHandThumb3
+      parentName: Mia:RightHandThumb2
+      position: {x: 0.058282666, y: -0.0025224888, z: -0.0020969494}
+      rotation: {x: 0.0349693, y: 0.040116668, z: -0.012137516, w: 0.9985092}
+      scale: {x: 1.000001, y: 1.0000007, z: 1.0000002}
+    - name: Mia:RightHandThumb4
+      parentName: Mia:RightHandThumb3
+      position: {x: 0.041904807, y: -0.000048344624, z: 0.00059316884}
+      rotation: {x: -0.000027851613, y: -0.0000056269487, z: 0.000022069486, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:RightHandPinky1
+      parentName: Mia:RightHand
+      position: {x: 0.15458257, y: -0.058971804, z: 0.009795782}
+      rotation: {x: 0.6512465, y: -0.01633318, z: -0.0032661092, w: 0.7586835}
+      scale: {x: 0.9999999, y: 0.99999934, z: 1}
+    - name: Mia:RightHandPinky2
+      parentName: Mia:RightHandPinky1
+      position: {x: 0.0669377, y: 0.000000007491592, z: 0.00000008846985}
+      rotation: {x: -0.0000033676613, y: -0.000082117476, z: 0.0005271107, w: 0.9999999}
+      scale: {x: 1.0000012, y: 1.0000015, z: 1.0000002}
+    - name: Mia:RightHandPinky3
+      parentName: Mia:RightHandPinky2
+      position: {x: 0.05259819, y: 0.0000010695196, z: 0.000000085836454}
+      rotation: {x: -0.0000071516774, y: -0.00004396867, z: 0.00029292732, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999998}
+    - name: Mia:RightHandPinky4
+      parentName: Mia:RightHandPinky3
+      position: {x: 0.041752238, y: 0.00000004050282, z: 0.00000004276635}
+      rotation: {x: -0.000010078871, y: -0.0000028567886, z: 0.000021286192, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:RightHandRing1
+      parentName: Mia:RightHand
+      position: {x: 0.16694473, y: -0.021039907, z: -0.0004805467}
+      rotation: {x: 0.6837942, y: -0.012409216, z: 0.003564377, w: 0.7295607}
+      scale: {x: 1.0000007, y: 1.0000004, z: 0.9999997}
+    - name: Mia:RightHandRing2
+      parentName: Mia:RightHandRing1
+      position: {x: 0.08308564, y: 0.0000007361591, z: 0.00000002636583}
+      rotation: {x: -0.000003069638, y: -0.000034601417, z: 0.00053635874, w: 0.9999999}
+      scale: {x: 1.0000014, y: 1.0000013, z: 1.0000006}
+    - name: Mia:RightHandRing3
+      parentName: Mia:RightHandRing2
+      position: {x: 0.06665182, y: 0.0000012130686, z: 0.000000053297548}
+      rotation: {x: -0.000007480382, y: -0.000009616545, z: 0.0001485478, w: 1}
+      scale: {x: 0.9999998, y: 1.0000006, z: 1.0000007}
+    - name: Mia:RightHandRing4
+      parentName: Mia:RightHandRing3
+      position: {x: 0.04188104, y: -0.000000019053358, z: -0.000000009495837}
+      rotation: {x: -0.00001037617, y: -0.0000009609462, z: 0.000021608725, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:RightHandMiddle1
+      parentName: Mia:RightHand
+      position: {x: 0.16374512, y: 0.02323785, z: -0.003722806}
+      rotation: {x: 0.6962582, y: -0.018781513, z: 0.008689812, w: 0.7174932}
+      scale: {x: 0.99999994, y: 0.9999992, z: 0.9999997}
+    - name: Mia:RightHandMiddle2
+      parentName: Mia:RightHandMiddle1
+      position: {x: 0.09769759, y: 0.0000005002175, z: 0.00000005718184}
+      rotation: {x: -0.000003039835, y: -0.00002088024, z: 0.0006847601, w: 0.99999976}
+      scale: {x: 0.9999998, y: 1.0000007, z: 1.0000005}
+    - name: Mia:RightHandMiddle3
+      parentName: Mia:RightHandMiddle2
+      position: {x: 0.07370051, y: 0.00000093936086, z: -0.000000005628268}
+      rotation: {x: -0.000007569563, y: -0.0000040558243, z: 0.00014377598, w: 1}
+      scale: {x: 1.0000007, y: 0.9999999, z: 0.99999934}
+    - name: Mia:RightHandMiddle4
+      parentName: Mia:RightHandMiddle3
+      position: {x: 0.039159916, y: -0.00000018185419, z: 0.000000007767229}
+      rotation: {x: -0.000010330035, y: -0.000000036921502, z: 0.000021566791, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:RightHandIndex1
+      parentName: Mia:RightHand
+      position: {x: 0.17541245, y: 0.06414833, z: -0.0014307735}
+      rotation: {x: 0.71660334, y: -0.007047955, z: -0.001884818, w: 0.6974428}
+      scale: {x: 0.9999997, y: 0.99999964, z: 0.99999976}
+    - name: Mia:RightHandIndex2
+      parentName: Mia:RightHandIndex1
+      position: {x: 0.08027012, y: 0.00000002146015, z: -0.000000025067097}
+      rotation: {x: -0.000008195636, y: 0.000009839885, z: 0.000351332, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000004}
+    - name: Mia:RightHandIndex3
+      parentName: Mia:RightHandIndex2
+      position: {x: 0.06456502, y: 0.0000007683293, z: -0.000000012725586}
+      rotation: {x: -0.0000074803975, y: 0.0000025481058, z: 0.000092561306, w: 1}
+      scale: {x: 1.0000002, y: 0.9999997, z: 0.9999994}
+    - name: Mia:RightHandIndex4
+      parentName: Mia:RightHandIndex3
+      position: {x: 0.037383795, y: 0.00000011653276, z: 0.00000000806146}
+      rotation: {x: -0.000010362422, y: 0.00000085222183, z: 0.000021625463, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia:Neck
+      parentName: Mia:Spine2
+      position: {x: -0.5095256, y: 0.000000018473107, z: 2.0712447e-10}
+      rotation: {x: -0.00017252564, y: 0.0019768032, z: -0.07408157, w: 0.99725026}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.0000002}
+    - name: Mia:Head
+      parentName: Mia:Neck
+      position: {x: -0.28438327, y: 0.00000023700333, z: -2.7003857e-10}
+      rotation: {x: -0, y: -0, z: 0.000000014901161, w: 1}
+      scale: {x: 1.0000004, y: 1.0000008, z: 0.9999999}
+    - name: Mia:Head_End
+      parentName: Mia:Head
+      position: {x: -0.3888799, y: -0.00000003, z: -5.551115e-19}
+      rotation: {x: 7.841787e-22, y: -0.0000015097097, z: -4.1633363e-17, w: 1}
+      scale: {x: 0.4191, y: 0.4191, z: 0.4191}
+    - name: Mia:Mia Hair
+      parentName: Mia:Head
+      position: {x: -0.12946156, y: -0.024243096, z: -0.007989219}
+      rotation: {x: 0.70482427, y: 0.05676953, z: -0.70482427, w: 0.05676953}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Mia:Mia_L_eye
+      parentName: Mia:Head
+      position: {x: -0.076475665, y: 0.16740091, z: 0.07475228}
+      rotation: {x: -0.0224276, y: 0.011159217, z: 0.02737783, w: 0.99931127}
+      scale: {x: 0.4191, y: 0.4191, z: 0.41909996}
+    - name: Mia:Mia_R_eye
+      parentName: Mia:Head
+      position: {x: -0.07647702, y: 0.1674091, z: -0.08740514}
+      rotation: {x: -0.011005774, y: -0.017018441, z: 0.0016420779, w: 0.9997933}
+      scale: {x: 0.4191, y: 0.4191, z: 0.41909996}
+    - name: Mia_Ctrl:Reference
+      parentName: ChuckPangPhudNhaWithModelMia(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:ChestEndEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.018774657, y: 1.4382604, z: 0.10881743}
+      rotation: {x: -0.000048261838, y: 0.9999948, z: -0.000018398121, w: -0.0032272122}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:ChestOriginEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.020779168, y: 1.0389858, z: 0.11482452}
+      rotation: {x: -0.00004832769, y: 0.99999416, z: 0.00003664992, w: 0.0034193574}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:HeadEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.014067689, y: 1.5795819, z: 0.08499964}
+      rotation: {x: -0.000047508558, y: 0.9996015, z: -0.000019828509, w: -0.028229352}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:Hips
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.01849318, y: 0.8832088, z: 0.14228933}
+      rotation: {x: 0.00024779132, y: 0.9999874, z: 0.0000012874219, w: 0.0050141793}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftUpLeg
+      parentName: Mia_Ctrl:Hips
+      position: {x: -0.092936344, y: -0.011030684, z: 0.021378975}
+      rotation: {x: -0.016777247, y: -0.016306018, z: -0.051750097, w: 0.998386}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftUpLegRoll
+      parentName: Mia_Ctrl:LeftUpLeg
+      position: {x: -0.00029349272, y: -0.18444878, z: 0.013098614}
+      rotation: {x: 0.0000004880865, y: 0.00034239728, z: -0.000024269117, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftLeg
+      parentName: Mia_Ctrl:LeftUpLegRoll
+      position: {x: -0.00033662625, y: -0.21151567, z: 0.015020819}
+      rotation: {x: 0.072230026, y: -0.05505882, z: 0.013501458, w: 0.99577564}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftLegRoll
+      parentName: Mia_Ctrl:LeftLeg
+      position: {x: -0.00047954707, y: -0.29703876, z: -0.051218428}
+      rotation: {x: 0.000000084802295, y: 0.000051977324, z: 0.000008908085, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftFoot
+      parentName: Mia_Ctrl:LeftLegRoll
+      position: {x: -0.00018582297, y: -0.115100235, z: -0.019846758}
+      rotation: {x: -0.036929194, y: -0.03814438, z: -0.017846052, w: 0.9984302}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftToeBase
+      parentName: Mia_Ctrl:LeftFoot
+      position: {x: -0.004880382, y: -0.06754654, z: 0.08206601}
+      rotation: {x: -0.021520296, y: 0.104213305, z: 0.016334679, w: 0.99418795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightUpLeg
+      parentName: Mia_Ctrl:Hips
+      position: {x: 0.09293632, y: -0.011030783, z: 0.021379326}
+      rotation: {x: -0.01603478, y: -0.002150109, z: 0.0754304, w: 0.9970198}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightUpLegRoll
+      parentName: Mia_Ctrl:RightUpLeg
+      position: {x: 0.0002854379, y: -0.18444869, z: 0.013098985}
+      rotation: {x: -0.00000040203946, y: 0.0002709869, z: -0.000019258057, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightLeg
+      parentName: Mia_Ctrl:RightUpLegRoll
+      position: {x: 0.00032743125, y: -0.21151565, z: 0.015021216}
+      rotation: {x: 0.07798741, y: -0.011309407, z: 0.018068133, w: 0.99672645}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightLegRoll
+      parentName: Mia_Ctrl:RightLeg
+      position: {x: 0.00046666144, y: -0.2970387, z: -0.051218696}
+      rotation: {x: 0.00000023206888, y: -0.00007329526, z: -0.000012569594, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightFoot
+      parentName: Mia_Ctrl:RightLegRoll
+      position: {x: 0.00018087575, y: -0.115100235, z: -0.019846871}
+      rotation: {x: -0.04741031, y: 0.052062087, z: 0.02052662, w: 0.9973066}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightToeBase
+      parentName: Mia_Ctrl:RightFoot
+      position: {x: 0.0048804325, y: -0.06826007, z: 0.08147346}
+      rotation: {x: -0.03169334, y: 0.05756776, z: 0.051386185, w: 0.99651444}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:Spine
+      parentName: Mia_Ctrl:Hips
+      position: {x: -0.001933257, y: 0.15577795, z: 0.027486363}
+      rotation: {x: -0.00014431892, y: 0.0015336309, z: -0.0002966962, w: 0.9999988}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:Spine1
+      parentName: Mia_Ctrl:Spine
+      position: {x: 0.0000014548143, y: 0.11504271, z: 0.0012020494}
+      rotation: {x: 0.000027368304, y: 0.0033231846, z: 0.000000087815174, w: 0.9999945}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:Spine2
+      parentName: Mia_Ctrl:Spine1
+      position: {x: 0.0000025891854, y: 0.11734129, z: 0.0012273666}
+      rotation: {x: 0.000027505836, y: 0.0033231839, z: 0.00000007243036, w: 0.9999945}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftShoulder
+      parentName: Mia_Ctrl:Spine2
+      position: {x: -0.047865257, y: 0.16689248, z: 0.0035918897}
+      rotation: {x: 0.00091066863, y: -0.02141131, z: 0.0033703267, w: 0.9997647}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftArm
+      parentName: Mia_Ctrl:LeftShoulder
+      position: {x: -0.12594911, y: -0.024262736, z: -0.014898497}
+      rotation: {x: -0.0015150001, y: 0.072744764, z: -0.017236479, w: 0.9972005}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftArmRoll
+      parentName: Mia_Ctrl:LeftArm
+      position: {x: -0.12975736, y: -0.000014541451, z: -0.000005318531}
+      rotation: {x: -0.00000001096942, y: -1.5395958e-10, z: -0.000000006195315, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftForeArm
+      parentName: Mia_Ctrl:LeftArmRoll
+      position: {x: -0.13966541, y: -0.00001570379, z: -0.0000057325733}
+      rotation: {x: -0.03099886, y: 0.017245607, z: 0.029487336, w: 0.9989355}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftForeArmRoll
+      parentName: Mia_Ctrl:LeftForeArm
+      position: {x: -0.15333074, y: -0.000017574514, z: 0.0074601714}
+      rotation: {x: 0.00000007399873, y: -0.0000000013959249, z: 0.00000000909104,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHand
+      parentName: Mia_Ctrl:LeftForeArmRoll
+      position: {x: -0.117688164, y: -0.000013347844, z: 0.00572601}
+      rotation: {x: 0.01154919, y: -0.027937938, z: 0.0531065, w: 0.99813116}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandIndex1
+      parentName: Mia_Ctrl:LeftHand
+      position: {x: -0.06748534, y: 0.000552996, z: 0.028469369}
+      rotation: {x: 0.000000009135606, y: 0.000000010547419, z: 5.3861393e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandIndex2
+      parentName: Mia_Ctrl:LeftHandIndex1
+      position: {x: -0.0314571, y: -0.00024148497, z: 0.0011293227}
+      rotation: {x: 0.00000035599436, y: -0.000000010775121, z: 0.000009966309, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Mia_Ctrl:LeftHandIndex3
+      parentName: Mia_Ctrl:LeftHandIndex2
+      position: {x: -0.025302486, y: -0.00019380578, z: 0.0009083732}
+      rotation: {x: 0.0000000026109184, y: 0.00000000472072, z: -0.000000011460663,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandIndex4
+      parentName: Mia_Ctrl:LeftHandIndex3
+      position: {x: -0.014650409, y: -0.00011224943, z: 0.00052595907}
+      rotation: {x: -0.0000000014215867, y: -0.0000000010742542, z: 0.00000001155458,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandMiddle1
+      parentName: Mia_Ctrl:LeftHand
+      position: {x: -0.06369503, y: 0.0014527675, z: 0.012222712}
+      rotation: {x: 0.00000001102527, y: -0.0000000034584544, z: -0.0000000037105816,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Mia_Ctrl:LeftHandMiddle2
+      parentName: Mia_Ctrl:LeftHandMiddle1
+      position: {x: -0.038258635, y: -0.0015305378, z: 0.0013364981}
+      rotation: {x: 0.00000031033122, y: 0.000000013768201, z: 0.000008985497, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandMiddle3
+      parentName: Mia_Ctrl:LeftHandMiddle2
+      position: {x: -0.028861374, y: -0.0011539105, z: 0.0010082423}
+      rotation: {x: -8.177411e-10, y: 0.0000000027397724, z: 0.000000004182011, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandMiddle4
+      parentName: Mia_Ctrl:LeftHandMiddle3
+      position: {x: -0.015335151, y: -0.0006132153, z: 0.0005357145}
+      rotation: {x: 0.0000000038740025, y: -0.000000007480561, z: -0.000000014778224,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandPinky1
+      parentName: Mia_Ctrl:LeftHand
+      position: {x: -0.061672177, y: -0.0038473767, z: -0.020153003}
+      rotation: {x: 0.0000000017119806, y: 0.000000011070103, z: 1.9614349e-10, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Mia_Ctrl:LeftHandPinky2
+      parentName: Mia_Ctrl:LeftHandPinky1
+      position: {x: -0.026237363, y: -0.00056200055, z: 0.0005871543}
+      rotation: {x: 0.00000023089561, y: 0.000000004354603, z: 0.000010571688, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandPinky3
+      parentName: Mia_Ctrl:LeftHandPinky2
+      position: {x: -0.020616813, y: -0.00044119215, z: 0.000461374}
+      rotation: {x: 0.0000000042681707, y: -0.0000000067129653, z: -0.0000000040619788,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandPinky4
+      parentName: Mia_Ctrl:LeftHandPinky3
+      position: {x: -0.016365407, y: -0.00035030788, z: 0.0003662402}
+      rotation: {x: 0.0000000062752457, y: -0.000000005806273, z: -0.000000008150165,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandRing1
+      parentName: Mia_Ctrl:LeftHand
+      position: {x: -0.06579199, y: 0.00018138568, z: -0.0050596306}
+      rotation: {x: 0.0000000070994854, y: 0.000000003356687, z: -0.0000000070728525,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Mia_Ctrl:LeftHandRing2
+      parentName: Mia_Ctrl:LeftHandRing1
+      position: {x: -0.03255119, y: -0.00077415927, z: 0.0011997977}
+      rotation: {x: 0.0000003640952, y: 0.000000008442591, z: 0.0000098999235, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandRing3
+      parentName: Mia_Ctrl:LeftHandRing2
+      position: {x: -0.026112745, y: -0.00062057, z: 0.00096248917}
+      rotation: {x: 0.0000000023085938, y: 0.000000002645956, z: -0.0000000031131289,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandRing4
+      parentName: Mia_Ctrl:LeftHandRing3
+      position: {x: -0.016408117, y: -0.00039011042, z: 0.0006047815}
+      rotation: {x: 0.000000003045237, y: 0.0000000035157761, z: 1.7953551e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandThumb1
+      parentName: Mia_Ctrl:LeftHand
+      position: {x: -0.027940435, y: -0.012373908, z: 0.035871595}
+      rotation: {x: -0.00000003185659, y: 0.000000020641366, z: 0.0000000136045015,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandThumb2
+      parentName: Mia_Ctrl:LeftHandThumb1
+      position: {x: -0.017139237, y: -0.0034474481, z: 0.014249062}
+      rotation: {x: 0.00000021386481, y: -0.0000015992534, z: -0.00000017879907, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandThumb3
+      parentName: Mia_Ctrl:LeftHandThumb2
+      position: {x: -0.017396001, y: -0.003498651, z: 0.014462697}
+      rotation: {x: 4.6650517e-10, y: -0.00000008981064, z: 0.00000001396306, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandThumb4
+      parentName: Mia_Ctrl:LeftHandThumb3
+      position: {x: -0.012488924, y: -0.0025119805, z: 0.010383075}
+      rotation: {x: -0.0000000038302073, y: 0.000000027681965, z: -0.000000018962295,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:Neck
+      parentName: Mia_Ctrl:Spine2
+      position: {x: 0.000006259955, y: 0.19980262, z: 0.0020921072}
+      rotation: {x: 0.035799183, y: 0.019815568, z: -0.027718088, w: 0.99877805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:Head
+      parentName: Mia_Ctrl:Neck
+      position: {x: -0.000436863, y: 0.11011915, z: 0.01763222}
+      rotation: {x: -0.036480796, y: 0.005163469, z: 0.026814535, w: 0.9989612}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightShoulder
+      parentName: Mia_Ctrl:Spine2
+      position: {x: 0.051759604, y: 0.16688941, z: 0.0035976784}
+      rotation: {x: 0.0011027132, y: 0.020648932, z: -0.0069725467, w: 0.9997619}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightArm
+      parentName: Mia_Ctrl:RightShoulder
+      position: {x: 0.12594989, y: -0.024266332, z: -0.014887172}
+      rotation: {x: -0.012889429, y: -0.024667243, z: 0.01921829, w: 0.9994279}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightArmRoll
+      parentName: Mia_Ctrl:RightArm
+      position: {x: 0.12975685, y: -0.0003514472, z: 0.000082691884}
+      rotation: {x: -0.000000029796668, y: 3.502899e-10, z: 0.0000000018841197, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightForeArm
+      parentName: Mia_Ctrl:RightArmRoll
+      position: {x: 0.13966492, y: -0.00037824866, z: 0.00008898343}
+      rotation: {x: -0.002765006, y: -0.0016191165, z: -0.03580977, w: 0.9993535}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightForeArmRoll
+      parentName: Mia_Ctrl:RightForeArm
+      position: {x: 0.15333185, y: -0.00041648833, z: 0.0074273976}
+      rotation: {x: -0.000000031612327, y: 9.78574e-10, z: -0.0000000012778667, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHand
+      parentName: Mia_Ctrl:RightForeArmRoll
+      position: {x: 0.11780369, y: -0.0031356758, z: 0.0057064407}
+      rotation: {x: -0.008730433, y: -0.027630206, z: 0.02641526, w: 0.999231}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandIndex1
+      parentName: Mia_Ctrl:RightHand
+      position: {x: 0.068796694, y: 0.00037170984, z: 0.025138715}
+      rotation: {x: 0.000000092113616, y: -0.0000000020244806, z: -0.0000000023765614,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandIndex2
+      parentName: Mia_Ctrl:RightHandIndex1
+      position: {x: 0.031474177, y: -0.00031170173, z: -0.0004087507}
+      rotation: {x: 1.3405276e-11, y: 0.0000000018557795, z: 2.766964e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandIndex3
+      parentName: Mia_Ctrl:RightHandIndex2
+      position: {x: 0.025316061, y: -0.00026618474, z: -0.00032877104}
+      rotation: {x: -4.5164067e-10, y: -8.215108e-11, z: 3.7505818e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandIndex4
+      parentName: Mia_Ctrl:RightHandIndex3
+      position: {x: 0.014658211, y: -0.0001562093, z: -0.0001903621}
+      rotation: {x: 4.6504536e-10, y: 0.0000000019379305, z: 2.3919144e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandMiddle1
+      parentName: Mia_Ctrl:RightHand
+      position: {x: 0.06421966, y: 0.0012847515, z: 0.009096693}
+      rotation: {x: 0.00000009207194, y: -0.0000000019914534, z: -0.0000000037725245,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandMiddle2
+      parentName: Mia_Ctrl:RightHandMiddle1
+      position: {x: 0.03827532, y: -0.0016050022, z: -0.00053418207}
+      rotation: {x: -0.0000000018196078, y: -2.6568131e-11, z: 0.0000000014515311,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandMiddle3
+      parentName: Mia_Ctrl:RightHandMiddle2
+      position: {x: 0.02887252, y: -0.0012440978, z: -0.0004029574}
+      rotation: {x: 0.0000000055828786, y: 0.0000000037142, z: -5.439529e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandMiddle4
+      parentName: Mia_Ctrl:RightHandMiddle3
+      position: {x: 0.015340871, y: -0.000664449, z: -0.00021410291}
+      rotation: {x: -0.000000003811892, y: -0.0000000036491004, z: -0.000000002536202,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandPinky1
+      parentName: Mia_Ctrl:RightHand
+      position: {x: 0.060603917, y: -0.004003317, z: -0.023141984}
+      rotation: {x: 0.00000008795282, y: -2.379344e-10, z: -0.0000000019512232, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandPinky2
+      parentName: Mia_Ctrl:RightHandPinky1
+      position: {x: 0.02623368, y: -0.00061343797, z: -0.00069529994}
+      rotation: {x: -0.0000000014091569, y: -0.0000000017781785, z: 2.0668722e-10,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandPinky3
+      parentName: Mia_Ctrl:RightHandPinky2
+      position: {x: 0.020613408, y: -0.0005006542, z: -0.00054634677}
+      rotation: {x: 0.0000000014364537, y: 0.0000000036229488, z: 5.3533034e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandPinky4
+      parentName: Mia_Ctrl:RightHandPinky3
+      position: {x: 0.01636259, y: -0.0004050824, z: -0.00043367816}
+      rotation: {x: 0.0000000022647895, y: -0.0000000017525646, z: -0.0000000015330723,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandRing1
+      parentName: Mia_Ctrl:RightHand
+      position: {x: 0.06546655, y: 0.000011808035, z: -0.008267556}
+      rotation: {x: 0.00000009216919, y: -0.000000002068517, z: -5.152775e-10, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandRing2
+      parentName: Mia_Ctrl:RightHandRing1
+      position: {x: 0.03256929, y: -0.00084088196, z: -0.00039183968}
+      rotation: {x: -6.300122e-11, y: 0.000000001916329, z: -0.0000000022825688, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandRing3
+      parentName: Mia_Ctrl:RightHandRing2
+      position: {x: 0.026126701, y: -0.0006983135, z: -0.0003143227}
+      rotation: {x: 2.1325072e-11, y: -0.000000001883302, z: 8.866057e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandRing4
+      parentName: Mia_Ctrl:RightHandRing3
+      position: {x: 0.016416728, y: -0.00044262587, z: -0.00019752567}
+      rotation: {x: 0.000000005611149, y: 0.0000000018253936, z: 5.753136e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandThumb1
+      parentName: Mia_Ctrl:RightHand
+      position: {x: 0.029627353, y: -0.012453834, z: 0.034462836}
+      rotation: {x: 0.00000007161622, y: 0.0000000073970243, z: -0.0000000034064138,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandThumb2
+      parentName: Mia_Ctrl:RightHandThumb1
+      position: {x: 0.013869424, y: -0.0037295904, z: 0.017389854}
+      rotation: {x: 0.000000019070303, y: 0.000000003305689, z: 0.000000014422664,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandThumb3
+      parentName: Mia_Ctrl:RightHandThumb2
+      position: {x: 0.019271944, y: -0.0035659694, z: 0.011828948}
+      rotation: {x: 0.000000022654564, y: 0.000000027665607, z: 0.0000000074388606,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandThumb4
+      parentName: Mia_Ctrl:RightHandThumb3
+      position: {x: 0.013506745, y: -0.0025917974, z: 0.008997555}
+      rotation: {x: 0.000000003579137, y: -0.000000009231266, z: -0.000000004053884,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:HipsEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.018702118, y: 0.8721781, z: 0.120911196}
+      rotation: {x: 0.00024779132, y: 0.9999874, z: 0.0000012874219, w: 0.0050141793}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftAnkleEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.16932552, y: 0.07780574, z: 0.19690904}
+      rotation: {x: -0.058152176, y: 0.991547, z: -0.015801411, w: 0.11490512}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftElbowEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.46146178, y: 1.4206562, z: 0.09866607}
+      rotation: {x: 0.017255671, y: 0.99680305, z: 0.02960301, w: -0.07217778}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftFootEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.20043929, y: 0.009855444, z: 0.12117349}
+      rotation: {x: -0.042488266, y: 0.9990468, z: 0.0014450878, w: 0.009911608}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandIndexEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.86176944, y: 1.3950822, z: 0.0024836804}
+      rotation: {x: 0.07016344, y: 0.99638146, z: 0.013719401, w: -0.04596578}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandMiddleEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.8700897, y: 1.3917074, z: 0.017623072}
+      rotation: {x: 0.07016252, y: 0.9963815, z: 0.013719491, w: -0.045965783}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandPinkyEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.85169166, y: 1.3901874, z: 0.05322678}
+      rotation: {x: 0.07016411, y: 0.9963814, z: 0.013719432, w: -0.04596577}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandRingEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.86647195, y: 1.3920909, z: 0.035438165}
+      rotation: {x: 0.070163436, y: 0.99638146, z: 0.01371926, w: -0.045965657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHandThumbEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.7917183, y: 1.38381, z: -0.035724614}
+      rotation: {x: 0.07015339, y: 0.99638224, z: 0.013719869, w: -0.045963984}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftHipEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.11163376, y: 0.87213206, z: 0.12184335}
+      rotation: {x: -0.051586192, y: 0.9983045, z: 0.016514743, w: 0.021316104}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftKneeEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.15447089, y: 0.47954455, z: 0.08160713}
+      rotation: {x: -0.035504285, y: 0.9948303, z: -0.052559767, w: 0.079307206}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftShoulderEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.19374558, y: 1.4132029, z: 0.12801084}
+      rotation: {x: -0.013882682, y: 0.9984132, z: 0.0005025079, w: -0.05457241}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:LeftWristEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: 0.7276104, y: 1.4132713, z: 0.046363786}
+      rotation: {x: 0.07015354, y: 0.9963822, z: 0.0137201175, w: -0.045965567}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightAnkleEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: -0.21310547, y: 0.0893654, z: 0.19888838}
+      rotation: {x: 0.116757, y: 0.992529, z: -0.009675327, w: -0.034064997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightElbowEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: -0.4251337, y: 1.4182647, z: 0.12956142}
+      rotation: {x: -0.023323769, y: 0.9996231, z: 0.014207352, w: 0.0027940844}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightFootEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: -0.23931049, y: 0.023196833, z: 0.11979224}
+      rotation: {x: 0.16898878, y: 0.9814154, z: 0.02678591, w: -0.08688632}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandIndexEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: -0.8342861, y: 1.4044179, z: 0.08214176}
+      rotation: {x: 0.003467624, y: 0.99926925, z: 0.023641776, w: 0.029832946}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandMiddleEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: -0.8417204, y: 1.4018424, z: 0.09788714}
+      rotation: {x: 0.0034676273, y: 0.9992693, z: 0.023641776, w: 0.029832816}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandPinkyEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: -0.8208439, y: 1.3968202, z: 0.13175994}
+      rotation: {x: 0.003467624, y: 0.99926925, z: 0.023641776, w: 0.029832946}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandRingEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: -0.83662426, y: 1.4012445, z: 0.11533094}
+      rotation: {x: 0.003467624, y: 0.99926925, z: 0.023641776, w: 0.029832946}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHandThumbEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: -0.7676554, y: 1.3842106, z: 0.036574356}
+      rotation: {x: 0.0034676313, y: 0.9992693, z: 0.023641644, w: 0.029832816}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightHipEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: -0.07422953, y: 0.8722241, z: 0.11997905}
+      rotation: {x: 0.07559616, y: 0.9969778, z: 0.016413532, w: 0.007153195}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightKneeEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: -0.13395725, y: 0.48198122, z: 0.07848235}
+      rotation: {x: 0.09406703, y: 0.9935547, z: -0.062103827, w: 0.011979935}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightShoulderEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: -0.15577814, y: 1.4122659, z: 0.13006566}
+      rotation: {x: 0.0124723455, y: 0.9998559, z: 0.011496391, w: 0.0007295206}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mia_Ctrl:RightWristEffector
+      parentName: Mia_Ctrl:Reference
+      position: {x: -0.69573945, y: 1.4024712, z: 0.11463835}
+      rotation: {x: 0.003467624, y: 0.99926925, z: 0.023641776, w: 0.029832946}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:optical
+      parentName: ChuckPangPhudNhaWithModelMia(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LANK
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LARM
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LEBW
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LFHD
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LFHD 1
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LFWF
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LFWF 1
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LHEEL
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LHND
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LKNE
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LLEG
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LPIN
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LSHD
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LTHM
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LTM5
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LTNK
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LTOE
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LTSHD
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:LUPA
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RANK
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RARM
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RBAK
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RBWF
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:REBW
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RFHD
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RFHD 1
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RFWF
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RHEEL
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RHND
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RKNE
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RLEG
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:ROOT
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RPIN
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RSHD
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RTHM
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RTM5
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RTNK
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RTOE
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RTSHD
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:RUPA
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:TPBK
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TRC:TPHD
+      parentName: TRC:optical
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

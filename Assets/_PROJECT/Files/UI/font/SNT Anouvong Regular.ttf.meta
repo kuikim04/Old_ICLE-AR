@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 754cdd60369d99945b3e1dbc2c19bdc8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SNT Anouvong
+  fontNames:
+  - SNT Anouvong
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 245dd29080acfe6459d9aff3b9a860a9, type: 3}
+  - {fileID: 12800000, guid: 34ce7231f9449404f876b8f845e0c4b2, type: 3}
+  - {fileID: 12800000, guid: 2716d7f78fbe9c64d991a494fe766dee, type: 3}
+  - {fileID: 12800000, guid: 5aaacd280973e93448f47cf459e69bb7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
